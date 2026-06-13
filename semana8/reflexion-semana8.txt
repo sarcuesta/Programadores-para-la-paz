@@ -1,0 +1,16 @@
+La seguridad digital es fundamental para proteger plataformas comunitarias porque evita el acceso no autorizado a la información.
+
+En sistemas donde participan muchas personas, es importante proteger los datos personales y las credenciales.
+
+Si no hay seguridad, los sistemas pueden ser vulnerables a ataques o manipulación de información.
+
+Esto puede afectar la confianza de los usuarios en la plataforma.
+
+También puede generar pérdida de datos importantes.
+
+La seguridad permite garantizar la integridad de la información.
+
+Además, ayuda a controlar quién puede acceder a cada parte del sistema.
+
+Por eso es clave aplicar buenas prácticas desde el diseño de la plataforma.
+
