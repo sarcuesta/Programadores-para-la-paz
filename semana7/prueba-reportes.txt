@@ -1,0 +1,16 @@
+Cuando se realiza la petición GET /reportes, el servidor devuelve un arreglo con todos los reportes almacenados en memoria. 
+
+Al principio el arreglo está vacío, pero después de realizar una petición POST, los datos se guardan en el array reportes.
+
+Cada nuevo reporte se agrega al arreglo y se mantiene mientras el servidor esté encendido.
+
+Ejemplo de respuesta:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
