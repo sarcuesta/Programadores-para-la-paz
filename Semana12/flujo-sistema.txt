@@ -1,0 +1,6 @@
+
+1. Un líder comunitario o ciudadano registra una nueva causa o petición en la plataforma web.
+2. La causa se almacena de forma segura en la base de datos centralizada del sistema.
+3. Otros miembros de la comunidad ingresan a la plataforma, visualizan la causa y hacen clic para registrar su apoyo.
+4. El sistema contabiliza y actualiza en tiempo real el número total de apoyos que recibe la petición.
+5. Al alcanzar la meta o la fecha límite, el sistema compila los datos y genera automáticamente un documento formal en formato PDF listo para ser descargado.

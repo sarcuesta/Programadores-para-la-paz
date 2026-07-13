@@ -1,0 +1,10 @@
+Durante el desarrollo de este curso he comprendido que la tecnología es un motor
+fundamental para democratizar la participación ciudadana y optimizar la organización
+comunitaria. Herramientas sencillas como el sistema de "Petición en 3 Clics" demuestran
+que la integración de bases de datos, flujos automatizados y backend reduce las barreras
+de acceso para que las comunidades se organicen sin burocracia. Aprendí que diseñar
+soluciones digitales efectivas requiere priorizar la seguridad, la minimización de
+datos y la transparencia en el manejo de la información. Al conectar procesos técnicos
+con necesidades reales, la tecnología deja de ser un concepto abstracto y se transforma
+en un canal directo de empoderamiento social y auditoría ciudadana.
+

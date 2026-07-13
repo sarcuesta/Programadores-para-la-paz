@@ -1,0 +1,5 @@
+Diseño de Automatización con n8n / Telegram
+
+- Evento que activa la automatización: Registro exitoso de un nuevo apoyo en una causa existente.
+- Mensaje que se envía: "¡Nuevo apoyo registrado! La causa '[Título_Causa]' acaba de recibir un respaldo de la comunidad. ¡Cada vez estamos más cerca de la meta!"
+- Información que NO debe enviarse por seguridad: No se deben adjuntar apellidos completos, números de cédula, números telefónicos, direcciones residenciales ni comentarios privados o sensibles de los ciudadanos, garantizando así la privacidad del usuario en canales de difusión públicos.

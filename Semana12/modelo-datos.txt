@@ -1,0 +1,14 @@
+Entidad 1: Causa
+- id (Identificador único de la causa)
+- titulo (Nombre representativo de la petición)
+- descripcion (Detalle del problema comunitario a resolver)
+- fecha (Día y hora de creación de la iniciativa)
+Explicación: Esta entidad sirve para almacenar y gestionar de forma centralizada toda la información correspondiente a las peticiones colectivas que se crean en la plataforma.
+
+Entidad 2: Apoyo
+- id (Identificador único del registro de apoyo)
+- causa_id (Llave foránea que conecta el apoyo con una causa específica)
+- nombre (Nombre del ciudadano que apoya, manteniendo la minimización de datos)
+- fecha (Momento exacto en el que se registró el apoyo)
+Explicación: Esta entidad sirve para auditar, vincular y contabilizar cuántas personas respaldan una causa específica sin necesidad de duplicar la información de la petición.
+
